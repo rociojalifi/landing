@@ -1,0 +1,38 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("https://images.unsplash.com/photo-1493770348161-369560ae357d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  text-align: center;
+  background-size: cover;
+  padding: 150px;
+  color: #f8ede3;
+}
+
+.banner h1 {
+  color: #f8ede3;
+  font-size: 70px;
+  padding-bottom: 15px;
+}
+.banner p {
+  padding: 5px 0;
+  color: #f8ede3;
+  opacity: 0.9;
+  font-size: 30px;
+  font-weight: lighter;
+  padding-bottom: 40px;
+}
+
+.btn-apply {
+  background-color: rgb(249, 242, 248);
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: rgb(39, 58, 72);
+  text-decoration: none;
+}
+
+.btn-apply:hover {
+  background-color: rgb(238, 225, 237);
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: rgb(39, 58, 72);
+  text-decoration: none;
+}
